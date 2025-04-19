@@ -16,7 +16,7 @@ BUÜ'de Bilgisayar Programcılığı öğrencisiyim. Web programcılığına oda
 ![](https://github-profile-trophy.vercel.app/?username=Furkan1678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ **Yolumuz Atatürk'ün Yolu**
-![](https://www.freepnglogos.com/uploads/ataturk-png/gazi-mustafa-kemal-imzasi-png-2.png)
+![](https://storage.googleapis.com/pruvaakademi.com.tr/2021/08/ataturkun-bilimle-ilgili-sozleri-.jpg)
 
 
 
