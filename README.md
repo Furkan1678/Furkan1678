@@ -13,7 +13,7 @@ BUÜ'de Bilgisayar Programcılığı öğrencisiyim. Web programcılığına oda
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan1678&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Rozetleri
-![](https://github-profile-trophy.vercel.app/?username=Furkan1678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Image](https://i.hizliresim.com/l49qkyn.jpg)](https://hizliresim.com/l49qkyn)
 
 ### ✍️ **Yolumuz Atatürk'ün Yolu**
 ![](https://hizliresim.com/l49qkyn][img]https://i.hizliresim.com/l49qkyn.jpg)
