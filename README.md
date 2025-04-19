@@ -16,7 +16,7 @@ BUÜ'de Bilgisayar Programcılığı öğrencisiyim. Web programcılığına oda
 [![](https://i.hizliresim.com/l49qkyn.jpg)](https://hizliresim.com/l49qkyn)
 
 ### ✍️ **Yolumuz Atatürk'ün Yolu**
-![](https://hizliresim.com/l49qkyn][img]https://i.hizliresim.com/l49qkyn.jpg)
+![](https://i.hizliresim.com/l49qkyn.jpg)
 
 
 
