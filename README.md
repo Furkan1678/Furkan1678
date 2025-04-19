@@ -16,7 +16,7 @@ BUÜ'de Bilgisayar Programcılığı öğrencisiyim. Web programcılığına oda
 ![](https://github-profile-trophy.vercel.app/?username=Furkan1678&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ **Yolumuz Atatürk'ün Yolu**
-![](GET https://ataturk.now.sh/tr)
+![Atatürk Sözleri](https://ataturk.now.sh/tr)
 
 ### 🔝 En Çok Katkı Sağladığım Proje
 ![](https://github-contributor-stats.vercel.app/api?username=Furkan1678&limit=5&theme=dark&combine_all_yearly_contributions=true)
